@@ -4,8 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("---Tracker Application---");
-            Manager manager = new Manager();
+            ApplicationManager appManager = new ApplicationManager();
 
             
         }

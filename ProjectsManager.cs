@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace ProjectTracker
 {
-    public class Manager
+    public class ProjectsManager
     {
+        public List<Project> Projects = new List<Project>();
+
         public Project NewProject(string name)
         {
             return new Project(name);
