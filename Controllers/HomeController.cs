@@ -11,9 +11,6 @@ namespace ProjectTracker.Controllers
     {
         public HomeController()
         {
-            UserPage page = new UserPage();
-            UserController manager = new UserController();
-            page.Home(manager);
 
         }
     }
