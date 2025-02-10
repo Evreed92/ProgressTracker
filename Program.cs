@@ -1,11 +1,14 @@
-﻿namespace ProjectTracker
+﻿using ProjectTracker.Controllers;
+using ProjectTracker.Views;
+
+namespace ProjectTracker
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            ApplicationManager appManager = new ApplicationManager();
-
+            IndexPage index = new IndexPage();
+            index.Login();
             
         }
     }

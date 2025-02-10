@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ProjectTracker.Models;
 
-namespace ProjectTracker
+namespace ProjectTracker.Controllers
 {
-    public class ProjectsManager
+    public class UserController
     {
         public List<Project> Projects = new List<Project>();
 

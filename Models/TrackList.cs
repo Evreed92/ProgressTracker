@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectTracker
+namespace ProjectTracker.Models
 {
-public class TrackList
+    public class TrackList
     {
         public Track? Head;
         public Track? Tail;

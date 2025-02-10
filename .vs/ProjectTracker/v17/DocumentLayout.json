@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|c:\\users\\evree\\documents\\personalprojects\\projecttracker\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|solutionrelative:view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|c:\\users\\evree\\documents\\personalprojects\\projecttracker\\views\\userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|solutionrelative:views\\userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|c:\\users\\evree\\documents\\personalprojects\\projecttracker\\applicationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|solutionrelative:applicationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|c:\\users\\evree\\documents\\personalprojects\\projecttracker\\views\\indexpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|solutionrelative:views\\indexpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|c:\\users\\evree\\documents\\personalprojects\\projecttracker\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|solutionrelative:track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|c:\\users\\evree\\documents\\personalprojects\\projecttracker\\projectsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|solutionrelative:projectsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|c:\\users\\evree\\documents\\personalprojects\\projecttracker\\views\\errorpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|solutionrelative:views\\errorpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|c:\\users\\evree\\documents\\personalprojects\\projecttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|c:\\users\\evree\\documents\\personalprojects\\projecttracker\\tracklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|solutionrelative:tracklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|c:\\users\\evree\\documents\\personalprojects\\projecttracker\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|c:\\users\\evree\\documents\\personalprojects\\projecttracker\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|solutionrelative:project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|c:\\users\\evree\\documents\\personalprojects\\projecttracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542935A7-8E5C-4244-8842-F8F1CDBE5B20}|ProjectTracker.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 33,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,93 +54,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationManager.cs",
-              "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\ApplicationManager.cs",
-              "RelativeDocumentMoniker": "ApplicationManager.cs",
-              "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\ApplicationManager.cs",
-              "RelativeToolTip": "ApplicationManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ErrorPage.cs",
+              "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Views\\ErrorPage.cs",
+              "RelativeDocumentMoniker": "Views\\ErrorPage.cs",
+              "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Views\\ErrorPage.cs",
+              "RelativeToolTip": "Views\\ErrorPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T04:26:30.372Z",
+              "WhenOpened": "2025-02-10T06:10:00.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexPage.cs",
+              "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Views\\IndexPage.cs",
+              "RelativeDocumentMoniker": "Views\\IndexPage.cs",
+              "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Views\\IndexPage.cs",
+              "RelativeToolTip": "Views\\IndexPage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:41:17.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "View.cs",
-              "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\View.cs",
-              "RelativeDocumentMoniker": "View.cs",
-              "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\View.cs",
-              "RelativeToolTip": "View.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAABPAAAAAAAAAA==",
+              "Title": "UserPage.cs",
+              "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Views\\UserPage.cs",
+              "RelativeDocumentMoniker": "Views\\UserPage.cs",
+              "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Views\\UserPage.cs",
+              "RelativeToolTip": "Views\\UserPage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:34:09.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProjectsManager.cs",
-              "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\ProjectsManager.cs",
-              "RelativeDocumentMoniker": "ProjectsManager.cs",
-              "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\ProjectsManager.cs",
-              "RelativeToolTip": "ProjectsManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T21:08:46.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Track.cs",
-              "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Track.cs",
-              "RelativeDocumentMoniker": "Track.cs",
-              "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Track.cs",
-              "RelativeToolTip": "Track.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T07:18:22.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TrackList.cs",
-              "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\TrackList.cs",
-              "RelativeDocumentMoniker": "TrackList.cs",
-              "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\TrackList.cs",
-              "RelativeToolTip": "TrackList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T07:17:45.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Project.cs",
-              "RelativeDocumentMoniker": "Project.cs",
-              "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Project.cs",
-              "RelativeToolTip": "Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T07:16:14.805Z",
+              "WhenOpened": "2025-02-10T05:38:38.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "Controllers\\UserController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:37:25.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T07:15:54.486Z",
+              "WhenOpened": "2025-02-10T05:36:35.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\evree\\Documents\\PersonalProjects\\ProjectTracker\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:36:03.74Z",
               "EditorCaption": ""
             }
           ]

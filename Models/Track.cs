@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectTracker
+namespace ProjectTracker.Models
 {
-   public class Track 
+    public class Track
     {
         public Track NextTrack;
         public string Description;
@@ -17,6 +17,6 @@ namespace ProjectTracker
             NextTrack = nextTrack;
             Description = description;
             Date = date;
-        } 
+        }
     }
 }

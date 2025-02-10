@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectTracker
+namespace ProjectTracker.Models
 {
     public class Project
     {
@@ -16,6 +16,6 @@ namespace ProjectTracker
             Name = name;
         }
 
-        
+
     }
 }
