@@ -14,8 +14,10 @@ namespace ProjectTracker.Views
         {
             Console.Clear();
             Console.WriteLine(message);
+            Console.WriteLine("hit another key to continue");
             Console.ReadLine();
-            return new IndexPage();
+            Console.Clear();
+            return new IndexPage().Login();
         }
     }
 }

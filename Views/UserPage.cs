@@ -10,8 +10,9 @@ namespace ProjectTracker.Views
 {
     public class UserPage : IView
     {
-        public IView Home(UserController manager, string username)
+        public IView Home(string username)
         {
+            UserController manager = new UserController();
             bool _quit = false;
             while (_quit == false)
             {
@@ -51,6 +52,7 @@ namespace ProjectTracker.Views
                
 
             }
+            Console.Clear();
             return new IndexPage().Login();
         }
     }
